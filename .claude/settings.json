@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "kordoc": {
+      "source": {
+        "source": "github",
+        "repo": "chrisryugj/kordoc"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "kordoc@kordoc": true
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "hwp-mcp": {
+      "type": "stdio",
+      "command": "uvx",
+      "args": ["--from", "hwp-mcp", "--with", "mcp<2", "hwp-mcp"],
+      "env": {}
+    }
+  }
+}
